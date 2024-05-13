@@ -1,5 +1,7 @@
 # Sistema-de-Gerenciamento-e-Controle-de-Estoque
 
+**Projeto dessenvolvido por alunos da UNIFEI, Universidade Federal de Itajubá, da discíplina de OOP.**
+
 <div>
   <p>
     Neste trabalho cada grupo deverá implementar um sistema para gerenciamento devendas e controle de estoque de uma loja de confecções (roupas). No setor de estoque, as mercadorias adquiridas dos fornecedores são incluídas no estoque da loja. Cada mercadoria é identificada por um código numérico, uma descrição, um preço de compra e um valor de venda. Toda vez que um produto novo entra no estoque, ele deve ser cadastrado com as informações anteriores. Para produtos já cadastrados, basta fazer a atualização da quantidade em estoque. Por exemplo, se haviam 10 unidades do produto cujo código é 1234 e foram comprados 20 novas unidades, o total em estoque desse produto passa a ser de 30 unidades. Note que, por efeito de simplificação, o valor de compra e venda dos produtos se mantém constante.
